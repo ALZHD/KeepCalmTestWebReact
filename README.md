@@ -15,5 +15,6 @@ Deploy ссылка: https://keepcalmtestwebreact.vercel.app/
 
 
 #### 2. расширение device (width 375px)
+<img width="925" alt="Снимок экрана 2022-10-14 в 02 09 44" src="https://user-images.githubusercontent.com/105541761/195720135-f8462587-56cc-4be0-a798-0fbe6e40f8a6.png">
 
-<img width="925" alt="Снимок экрана 2022-10-14 в 02 04 19" src="https://user-images.githubusercontent.com/105541761/195719545-7108b472-61ea-446d-a0f1-5145b282253b.png">
+
