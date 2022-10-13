@@ -2,9 +2,7 @@
 
 Тестовое задание - создал web-страницу на основании макета.
 
-Deploy ссылка 
-
-https://keepcalmtestwebreact.vercel.app/
+Deploy ссылка: https://keepcalmtestwebreact.vercel.app/
 
 Использовал PixelPerfect
 
@@ -16,7 +14,4 @@ https://keepcalmtestwebreact.vercel.app/
 
 2 расширение device (width 375px)
 
-<img width="1163" alt="Снимок экрана 2022-10-12 в 19 35 26" src="https://user-images.githubusercontent.com/105541761/195719191-76d35799-f977-4f24-a1ed-18605c3d5e41.png">
-
-
-При изменении размера страницы - пожалуйста, обновите страницу.
+<img width="925" alt="Снимок экрана 2022-10-14 в 02 04 19" src="https://user-images.githubusercontent.com/105541761/195719545-7108b472-61ea-446d-a0f1-5145b282253b.png">
