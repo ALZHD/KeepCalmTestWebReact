@@ -1,0 +1,166 @@
+.section-container__first-header {
+    font-family: 'Orchidea Pro';
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: 0.1px;
+    text-align: left;
+    padding: 161.5px 261px;
+    text-transform: uppercase;
+}
+
+.section-container__block-1__text-1__header {
+    margin-bottom: 13px;
+    width: 500px;
+}
+
+.section-container__block-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-column-gap: 52px;
+    grid-row-gap: 100px;
+}
+
+.section-container__block-1__Photo-1 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.section-container__block-1__text-1 {
+    grid-column: 2/2;
+    grid-row: 1/2;
+    padding-top: 73px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.section-container__block-1__Photo-2 {
+    grid-column: 2/2;
+    grid-row: 2/3;
+}
+
+
+.section-container__block-1__text-2 {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+.section-container__block-1__text-1__header {
+    font-family: "Orchidea Pro";
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 53px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+
+
+.section-container__block-1__text-1__content-1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 130%;
+    width: 600px;
+    left: 988px;
+    top: 257px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.16px
+}
+
+
+.section-container__block-1-text-1__content-2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 130%;
+    width: 570px;
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    letter-spacing: 0.16px
+}
+
+.section-container__block-1__text-2__header {
+    font-family: "Orchidea Pro";
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 53px;
+    letter-spacing: 0;
+    text-align: left;
+    padding-left: 263px;
+    padding-right: 100px;
+
+}
+
+.section-container__block-1__text-2 {
+    padding-top: 28px;
+}
+
+.section-container__block-1__text-2__content-1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 130%;
+    left: 988px;
+    top: 257px;
+    margin-top: 26px;
+    display: flex;
+    align-items: center;
+    padding-left: 264px;
+    padding-right: 69px;
+    letter-spacing: 0.16px
+}
+
+
+.section-container__block-1__text-2__content-2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    margin-top: 6px;
+    padding-left: 264px;
+    padding-right: 90px;
+    letter-spacing: 0.16px
+}
+
+
+.section-container__block-1_photo-container-1 {
+    background-image: url("../Sections/FirstSection/img/julia-d-FlNTu2Bj4Dg-unsplash.jpg");
+    width: 900.38px;
+    height: 480.45px;
+    background-repeat: no-repeat;
+}
+
+.section-container__block-1_photo-container-2 {
+    background-image: url("../Sections/FirstSection/img/taisiia-stupak-viq7xx1boxo-unsplash 1.png");
+    width: 900.38px;
+    height: 480.45px;
+    background-repeat: no-repeat;
+}
+
+.section-container__block-1_photo-container-3 {
+    background-image: url("../Sections/SecondSection/img/julia-d-FlNTu2Bj4Dg-unsplash (1).jpg");
+    width: 900.38px;
+    height: 480.45px;
+    background-repeat: no-repeat;
+}
+
+.section-container__block-1_photo-container-4{
+    background-image: url("../Sections/SecondSection/img/taisiia-stupak-viq7xx1boxo-unsplash 1 (1).png");
+    width: 900.38px;
+    height: 480.45px;
+    background-repeat: no-repeat;
+}
+
+

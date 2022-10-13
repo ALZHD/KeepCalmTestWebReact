@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+
+@font-face {
+  font-family: 'Orchidea Pro';
+  src: local('Orchidea Pro Extra Light'), local('Orchidea-Pro-Extra-Light'),
+    url('./fonts/OrchideaPro-Regular.woff2') format('woff2'),
+    url('./fonts/OrchideaPro-Regular.woff') format('woff'),
+    url('./fonts/OrchideaPro-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto-Regular'), local('Roboto-Regular'),
+    url('./fonts/Roboto-Regular.ttf') format('truetype');
+
+}
+
+.main-container {
+  position: relative;
+}
+
+.navbar-block {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}

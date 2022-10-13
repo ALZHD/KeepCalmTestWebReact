@@ -1,0 +1,20 @@
+.section-container__header br {
+    display: none
+}
+
+.section-container__header {
+    font-family: 'Orchidea Pro';
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: 0.1px;
+    text-align: left;
+    padding: 161.5px 261px;
+    text-transform: uppercase;
+}
+
+.section-container__header {
+    position: relative;
+    top: 39px;
+}
+

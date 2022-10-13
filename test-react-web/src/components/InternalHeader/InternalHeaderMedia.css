@@ -1,0 +1,23 @@
+@media only screen and (device-width: 375px) {
+    .section-container__header {
+        font-family: 'Orchidea Pro';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24.1px;
+        line-height: 130%;
+        text-transform: uppercase;
+        text-align: initial;
+        padding: 65px 18.5px;
+        margin-right: 40px;
+    }
+
+    .section-container__header {
+        position: relative;
+        top: 8px;
+
+    }
+
+    .section-container__header br {
+        display: initial;
+    }
+}

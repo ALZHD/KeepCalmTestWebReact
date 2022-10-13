@@ -1,0 +1,137 @@
+@media only screen and (device-width: 375px) {
+
+
+    .section-container__block-1_photo-container-1 {
+        background-image: url("../Sections/FirstSection/img/julia-d-FlNTu2Bj4Dg-unsplash.png");
+        width: 375px;
+        height: 380px;
+    }
+
+    .section-container__block-1 {
+        display: initial;
+        width: 375px;
+
+    }
+
+    .section-container__block-1__text-1 {
+        padding-top: 31px;
+        padding-left: 19px
+    }
+
+    .section-container__block-1__text-1__header {
+
+        width: 335px;
+        height: 61px;
+        font-family: 'Orchidea Pro';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 120%;
+        display: flex;
+        align-items: center;
+        color: #141414;
+    }
+
+    .section-container__block-1__text-1__content-1 {
+        width: 335px;
+        padding-bottom: 2px;
+        margin-top: 12px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 130%;
+        display: flex;
+        align-items: center;
+        color: #141414;
+    }
+
+    .section-container__block-1-text-1__content-2 {
+        width: 335px;
+        padding-bottom: 2px;
+        margin-top: 5px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 130%;
+        display: flex;
+        align-items: center;
+        color: #141414;
+    }
+
+    .section-container__block-1_photo-container-2 {
+        background-image: url("../Sections/FirstSection/img/taisiia-stupak-viq7xx1boxo-unsplash 1 for media.png");
+        background-repeat: no-repeat;
+        margin-top: 56px;
+        height: 360.45px;
+
+    }
+
+
+    .section-container__block-1__text-2__header {
+
+        width: 335px;
+        height: 61px;
+        font-family: 'Orchidea Pro';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 120%;
+        display: flex;
+        align-items: center;
+        color: #141414;
+        padding-top: 24px;
+        padding-right: 0px;
+        padding-left: 19px
+    }
+
+    .section-container__block-1__text-2__content-1 {
+        width: 354px;
+        padding-bottom: 2px;
+        margin-top: 12px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 130%;
+        display: flex;
+        align-items: center;
+        color: #141414;
+        padding-right: 0px;
+        padding-left: 19px;
+        padding-top: 24px;
+    }
+
+    .section-container__block-1__text-2__content-2 {
+        width: 354px;
+        padding-bottom: 2px;
+        margin-top: 5px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 130%;
+        display: flex;
+        align-items: center;
+        color: #141414;
+        padding-right: 0;
+        padding-left: 19px;
+    }
+
+
+    .section-container__block-1_photo-container-3 {
+        background-image: url("../Sections/SecondSection/img/julia-d-FlNTu2Bj4Dg-unsplash-media.png");
+        width: 375px;
+        height: 380px;
+    }
+
+    .section-container__block-1_photo-container-4 {
+        background-image: url("../Sections/SecondSection/img/taisiia-stupak-viq7xx1boxo-unsplash 1 media.png");
+        background-repeat: no-repeat;
+        margin-top: 59px;
+        height: 360.45px;
+
+    }
+
+}

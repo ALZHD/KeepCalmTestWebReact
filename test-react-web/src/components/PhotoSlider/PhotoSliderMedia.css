@@ -1,0 +1,35 @@
+@media only screen and (device-width: 375px) {
+
+    .photoslider__header {
+        padding-left: 19px;
+        width: 240px;
+        padding-top: 75px;
+        font-family: 'Orchidea Pro';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24.1px;
+        line-height: 120%;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        color: #141414;
+    }
+
+    .photoslider {
+        height: 530px;
+    }
+
+    .photoslider__slider {
+        padding: 59px 122px 20px 19px;
+
+    }
+
+    .photoslider__slider__Photo {
+        width: calc(78.5vw - 40px - 40px + 10px);
+
+    }
+
+    .photoslider__slider__Photo+.photoslider__slider__Photo {
+        margin-left: 32px;
+    }
+}

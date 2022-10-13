@@ -1,0 +1,33 @@
+@media only screen and (device-width: 375px) {
+    .navbar {
+        width: 375px;
+        padding: 3px 0px 3px 18px;
+        height: 59.9px;
+    }
+
+    .navbar__circeya_logo__picture {
+        width: 20px;
+    }
+
+    .navbar__circeya_logo__name {
+        width: 95px;
+    }
+
+    .navbar__circeya_logo {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        margin-left: 2px;
+
+    }
+
+    .navbar__telephone-section__tel {
+        display: none;
+    }
+
+
+    .navbar__telephone-section__tel-picture {
+        display: block;
+        padding: 16px 24px;
+    }
+}

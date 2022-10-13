@@ -1,0 +1,40 @@
+.photoslider {
+    height: 720px;
+}
+
+.photoslider__header {
+    padding-left: 262px;
+    padding-top: 95px;
+    font-family: 'Orchidea Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #141414;
+}
+
+.photoslider__slider {
+    display: flex;
+    overflow-x: scroll;
+    padding: 123px 261px 160px 261px;
+}
+
+.photoslider__slider::-webkit-scrollbar {
+    display: none;
+}
+
+.photoslider__slider{
+padding: 126px 261px 160px 261px
+ }
+
+.photoslider__slider__Photo {
+    width: calc(20.5vw - 40px - 40px + 10px);
+}
+
+.photoslider__slider__Photo + .photoslider__slider__Photo {
+    margin-left: 40px;
+}
+
