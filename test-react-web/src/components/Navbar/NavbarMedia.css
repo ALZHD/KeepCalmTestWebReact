@@ -1,4 +1,4 @@
-@media only screen and (device-width: 375px) {
+@media screen and (max-width: 639px) {
     .navbar {
         width: 375px;
         padding: 3px 0px 3px 18px;

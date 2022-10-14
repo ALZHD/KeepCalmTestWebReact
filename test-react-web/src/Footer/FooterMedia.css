@@ -1,4 +1,4 @@
-@media only screen and (device-width: 375px) {
+@media screen and (max-width: 639px) {
     .container {
         margin-top: 80px;
         height: 200px;
@@ -7,4 +7,8 @@
         border-radius: 0px;
         background-color: #141414;
     }
+
+
 }
+/*
+@media only screen and (device-width: 375px) */
