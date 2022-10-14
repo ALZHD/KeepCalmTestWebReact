@@ -5,6 +5,8 @@
         background-image: url("../Sections/FirstSection/img/julia-d-FlNTu2Bj4Dg-unsplash.png");
         width: 375px;
         height: 380px;
+        margin: 0 auto
+
     }
 
     .section-container__block-1 {
@@ -65,7 +67,7 @@
         background-repeat: no-repeat;
         margin-top: 56px;
         height: 360.45px;
-
+        margin: 0 auto
     }
 
 
@@ -124,6 +126,7 @@
         background-image: url("../Sections/SecondSection/img/julia-d-FlNTu2Bj4Dg-unsplash-media.png");
         width: 375px;
         height: 380px;
+        margin: 0 auto
     }
 
     .section-container__block-1_photo-container-4 {
@@ -131,7 +134,7 @@
         background-repeat: no-repeat;
         margin-top: 59px;
         height: 360.45px;
-
+        margin: 0 auto
     }
 
 }
