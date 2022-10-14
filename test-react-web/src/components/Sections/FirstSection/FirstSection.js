@@ -1,7 +1,5 @@
 import React from 'react';
 import '../Sections.css';
-import Photo1 from './img/julia-d-FlNTu2Bj4Dg-unsplash.jpg';
-import Photo2 from './img/taisiia-stupak-viq7xx1boxo-unsplash 1.png';
 
 export default function FirstSection() {
   /* 1s/2s/ - first section/section section */

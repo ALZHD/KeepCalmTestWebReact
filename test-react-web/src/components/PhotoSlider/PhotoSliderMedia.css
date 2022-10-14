@@ -25,7 +25,7 @@
     }
 
     .photoslider__slider__Photo {
-        width: calc(78.5vw - 40px - 40px + 10px);
+        width: 224px;
 
     }
 

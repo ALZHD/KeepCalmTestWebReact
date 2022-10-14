@@ -12,6 +12,7 @@
     .section-container__block-1 {
         display: initial;
         width: 375px;
+        justify-items: center;
 
     }
 
@@ -64,10 +65,16 @@
 
     .section-container__block-1_photo-container-2 {
         background-image: url("../Sections/FirstSection/img/taisiia-stupak-viq7xx1boxo-unsplash 1 for media.png");
-        background-repeat: no-repeat;
-        margin-top: 56px;
         height: 360.45px;
-        margin: 0 auto
+        margin: 56px auto 0;
+        background-position: center center;
+        width:375px;
+        border: 1px solid red;
+        /* margin: 0 auto; */
+        /* width: 375px;
+        height: 380px;
+        top: 56px;
+        margin: 0 auto */
     }
 
 
@@ -132,9 +139,11 @@
     .section-container__block-1_photo-container-4 {
         background-image: url("../Sections/SecondSection/img/taisiia-stupak-viq7xx1boxo-unsplash 1 media.png");
         background-repeat: no-repeat;
-        margin-top: 59px;
         height: 360.45px;
-        margin: 0 auto
+        margin: 56px auto 0;
+        background-position: center center;
+        width:375px;
+        border: 1px solid red;
     }
 
 }

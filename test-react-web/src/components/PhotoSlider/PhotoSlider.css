@@ -9,7 +9,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 48px;
-    line-height: 110%;
+    /* line-height: 110%; */
     display: flex;
     align-items: center;
     text-transform: uppercase;
@@ -32,6 +32,7 @@ padding: 126px 261px 160px 261px
 
 .photoslider__slider__Photo {
     width: calc(20.5vw - 40px - 40px + 10px);
+
 }
 
 .photoslider__slider__Photo + .photoslider__slider__Photo {
